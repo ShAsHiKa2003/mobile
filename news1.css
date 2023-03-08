@@ -34,7 +34,7 @@
 	
 	p
 	  {
-	  text-align:center;
+	  text-align:justify;
 	  color:white;
 	  float:left;
 	  margin-left:5px;
@@ -127,7 +127,7 @@
 
 	.sp
 	  {
-		text-align: center;
+		text-align: justify;
 		font-size: 200%;
 	  }
 
@@ -166,8 +166,8 @@
 		margin: 0px;
 		padding: 0px;
 		position: relative;
-		left: 10px;
-	    top: 100px;
+		left: 0px;
+	    top: 120px;
 	}
 
 	a
@@ -185,3 +185,11 @@
 	  {
 		color: rgb(204, 59, 59);
 	  }
+	  
+	  
+	.main
+	{
+		position:relative;
+		left:200px;
+	}
+	}
